@@ -1,0 +1,14 @@
+{
+  "name": "jh-project-footer",
+  "version": "1.0.4",
+  "private": true,
+  "type": "module",
+  "description": "Shared Jay Hilwig maker footer as a framework-independent Web Component.",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node server.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
