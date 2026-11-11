@@ -4,10 +4,10 @@ Canonical shared dark maker footer for Jay Hilwig projects.
 
 ## Current projects
 
+- VantSide — https://vantside.com
 - Tabum — https://tabum.org
 - White House War — https://whitehousewar-production.up.railway.app/
 - EatSafely — https://eatsafely.org
-- Thurston Mobile Notary — https://thurstonnotary.com/
 - DocuFormer — URL pending
 
 ## Local development
@@ -65,6 +65,13 @@ https://footer.jhilwig.com/jh-footer.min.js
 
 Use the minified script.
 
+### VantSide
+
+```html
+<script defer src="https://footer.jhilwig.com/jh-footer.min.js"></script>
+<jh-project-footer project="vantside"></jh-project-footer>
+```
+
 ### EatSafely
 
 ```html
@@ -84,13 +91,6 @@ Use the minified script.
 ```html
 <script defer src="https://footer.jhilwig.com/jh-footer.min.js"></script>
 <jh-project-footer project="tabum"></jh-project-footer>
-```
-
-### Thurston Mobile Notary
-
-```html
-<script defer src="https://footer.jhilwig.com/jh-footer.min.js"></script>
-<jh-project-footer project="notary"></jh-project-footer>
 ```
 
 ### DocuFormer
